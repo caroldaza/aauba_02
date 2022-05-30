@@ -1,1 +1,3 @@
-# aauba_02
+# aauba
+
+Proyecto aprendizaje automático
